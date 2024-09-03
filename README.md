@@ -1,7 +1,7 @@
-A classic game of Tic Tac Toe built using HTML, CSS, and JavaScript. This is a simple, interactive, and fun implementation of the Tic Tac Toe game where two players (X and O) take turns marking the spaces in a 3×3 grid.
-The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+A classic game of Tic Tac Toe built using HTML, CSS, and JavaScript. This is a simple, interactive, and fun implementation of the Tic Tac Toe game where two players (X and O) take turns marking the spaces in a 3×3 grid.The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
-Features
+Features:
+
 ->Two-Player Game: Play with a friend on the same device.
 ->Simple UI: Easy to use and understand.
 ->Game Status Display: Shows which player's turn it is and announces the winner or draw.
